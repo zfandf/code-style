@@ -1,5 +1,6 @@
 # Summary
 * [新员工入职文档](new.md)
+* [环境搭建](develop.md)
 * [通用编码规范](common.md)
 * [HTML 规范](html.md)
 * [JavaScript 规范](javascript.md)

@@ -1,30 +1,30 @@
-# ĞÂÔ±¹¤ÈëÖ°ÎÄµµ
+# æ–°å‘˜å·¥å…¥èŒæ–‡æ¡£
 
-## ÈëÖ°×¢Òâ
-[ÈëÖ°×¢Òâ](ru-zhi-zhu-yi.md)
+## å…¥èŒæ³¨æ„
+[å…¥èŒæ³¨æ„](ru-zhi-zhu-yi.md)
 
-## ¿ª·¢»·¾³
-* ¿ª·¢»·¾³£¬wamp64£¬¼ÓÈëqqÈº **573578472**£¬ÏÂÔØÏà¹Ø»·¾³°²×°°ü **wampserver3.0.6\_x64\_apache2.4.23\_mysql5.7.14\_php5.6.25-7.0.10**
-* ¿ª·¢Ô­ĞÍµØÖ·£º[http://192.168.1.188:8080/yilianStat](http://192.168.1.188:8080/yilianStat/)
-* ¿ª·¢¹¤¾ß£ºphpstrorm£¬ËÑË÷¹¤¾ß²¢½øĞĞÏÂÔØ°²×°£¬¹¤¾ßÄ¬ÈÏÅäÖÃ¿ÉÒÔÏÂÔØ setting.jar ÎÄ¼ş£¬½øĞĞµ¼Èë¡£
-* Êı¾İ¿â¹ÜÀí¹¤¾ß£º Navicat£¬ÔÚqqÈºÎÄ¼şÖĞÏÂÔØ **Navicat\_20238**
-* bugÏµÍ³£º[ìøµÀ](http://zen.lefenmall.net/index.php?m=my&f=index)£¬ÕËºÅ£º×Ô¼ºÃû×ÖÈ«Æ´£¨Èç£ºguochaoqiang£©ÃÜÂë£ºtest1@
-* ¿ª·¢ÎÄµµ£º[¿´ÔÆ](https://www.kancloud.cn/)£¬×¢²á¿´ÔÆÕËºÅ£¬²¢°ÑÕËºÅÓÊÏä·¢¸ø×é³¤
+## å¼€å‘ç¯å¢ƒ
+* å¼€å‘ç¯å¢ƒï¼Œwamp64ï¼ŒåŠ å…¥qqç¾¤ **573578472**ï¼Œä¸‹è½½ç›¸å…³ç¯å¢ƒå®‰è£…åŒ… **wampserver3.0.6\_x64\_apache2.4.23\_mysql5.7.14\_php5.6.25-7.0.10**
+* å¼€å‘åŸå‹åœ°å€ï¼š[http://192.168.1.188:8080/yilianStat](http://192.168.1.188:8080/yilianStat/)
+* å¼€å‘å·¥å…·ï¼šphpstrormï¼Œæœç´¢å·¥å…·å¹¶è¿›è¡Œä¸‹è½½å®‰è£…ï¼Œå·¥å…·é»˜è®¤é…ç½®å¯ä»¥ä¸‹è½½ setting.jar æ–‡ä»¶ï¼Œè¿›è¡Œå¯¼å…¥ã€‚
+* æ•°æ®åº“ç®¡ç†å·¥å…·ï¼š Navicatï¼Œåœ¨qqç¾¤æ–‡ä»¶ä¸­ä¸‹è½½ **Navicat\_20238**
+* bugç³»ç»Ÿï¼š[ç¦…é“](http://zen.lefenmall.net/index.php?m=my&f=index)ï¼Œè´¦å·ï¼šè‡ªå·±åå­—å…¨æ‹¼ï¼ˆå¦‚ï¼šguochaoqiangï¼‰å¯†ç ï¼štest1@
+* å¼€å‘æ–‡æ¡£ï¼š[çœ‹äº‘](https://www.kancloud.cn/)ï¼Œæ³¨å†Œçœ‹äº‘è´¦å·ï¼Œå¹¶æŠŠè´¦å·é‚®ç®±å‘ç»™ç»„é•¿
 
-## ´úÂë¹ÜÀí¹¤¾ßgit
-* °²×°git£¬²¢ÅäÖÃ.  [https://git-scm.com/download/win](https://git-scm.com/download/win)
-* ×¢²ágitlabÕËºÅ: [http://git.lefenmall.com:8088/](http://git.lefenmall.com:8088/)
-    - ÉèÖÃ×Ô¼ºµÄÓÃ»§Ãû, Profile Setting ¡· Profile ¡· Name
-    - ÉèÖÃ×Ô¼ºµÄgit sshkey, Profile Setting ¡· SSH Keys ¡· Key 
-    - °Ñ×Ô¼ºµÄÕËºÅ·¢¸øÏîÄ¿¸ºÔğÈË
-* ²éÔÄ×ÊÁÏÊìÏ¤git»ù±¾²Ù×÷£¨¿ËÂ¡´úÂëµ½±¾µØ¡¢Ìá½»´úÂë¡¢À­È¡ĞÂ´úÂë£©[http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
-- ³£ÓÃgitÃüÁî£º[http://note.youdao.com/noteshare?id=c5682c309ed0168fd52666ef1b9af1ee&sub=33E8FAD0331143429D51F0CF7EF68C55](http://note.youdao.com/noteshare?id=c5682c309ed0168fd52666ef1b9af1ee&sub=33E8FAD0331143429D51F0CF7EF68C55)
-- ÏîÄ¿ÖĞgit¿ª·¢Á÷³Ì£º[http://note.youdao.com/groupshare/?token=C55062B49D7E4627B353ADF6EEB9DA20&gid=2680421](http://note.youdao.com/groupshare/?token=C55062B49D7E4627B353ADF6EEB9DA20&gid=2680421)
+## ä»£ç ç®¡ç†å·¥å…·git
+* å®‰è£…gitï¼Œå¹¶é…ç½®.  [https://git-scm.com/download/win](https://git-scm.com/download/win)
+* æ³¨å†Œgitlabè´¦å·: [http://git.lefenmall.com:8088/](http://git.lefenmall.com:8088/)
+    - è®¾ç½®è‡ªå·±çš„ç”¨æˆ·å, Profile Setting ã€‹ Profile ã€‹ Name
+    - è®¾ç½®è‡ªå·±çš„git sshkey, Profile Setting ã€‹ SSH Keys ã€‹ Key 
+    - æŠŠè‡ªå·±çš„è´¦å·å‘ç»™é¡¹ç›®è´Ÿè´£äºº
+* æŸ¥é˜…èµ„æ–™ç†Ÿæ‚‰gitåŸºæœ¬æ“ä½œï¼ˆå…‹éš†ä»£ç åˆ°æœ¬åœ°ã€æäº¤ä»£ç ã€æ‹‰å–æ–°ä»£ç ï¼‰[http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+- å¸¸ç”¨gitå‘½ä»¤ï¼š[http://note.youdao.com/noteshare?id=c5682c309ed0168fd52666ef1b9af1ee&sub=33E8FAD0331143429D51F0CF7EF68C55](http://note.youdao.com/noteshare?id=c5682c309ed0168fd52666ef1b9af1ee&sub=33E8FAD0331143429D51F0CF7EF68C55)
+- é¡¹ç›®ä¸­gitå¼€å‘æµç¨‹ï¼š[http://note.youdao.com/groupshare/?token=C55062B49D7E4627B353ADF6EEB9DA20&gid=2680421](http://note.youdao.com/groupshare/?token=C55062B49D7E4627B353ADF6EEB9DA20&gid=2680421)
 
-## ¹¤×÷Ô­Ôò
-- È·ÈÏĞèÇó£¬Ã÷È·Ä¿±ê
-- ±£³Ö¹µÍ¨£¬¼°Ê±·´À¡
-- »»Î»Ë¼¿¼£¬³¬¹ıÔ¤ÆÚ
+## å·¥ä½œåŸåˆ™
+- ç¡®è®¤éœ€æ±‚ï¼Œæ˜ç¡®ç›®æ ‡
+- ä¿æŒæ²Ÿé€šï¼ŒåŠæ—¶åé¦ˆ
+- æ¢ä½æ€è€ƒï¼Œè¶…è¿‡é¢„æœŸ
 
 
 
